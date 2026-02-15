@@ -1,1 +1,5 @@
 .venv
+data/
+checkpoints/
+*.pt
+*.pth

@@ -4,3 +4,8 @@ autopep8
 
 # App
 flask
+
+# Vision Transformer
+torch>=2.0
+torchvision>=0.15
+Pillow
